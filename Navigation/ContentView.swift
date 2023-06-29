@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         NavigationStack {
             NavigationLink(destination: Text("Second View")) {
-                Text("Hello, testando1!")
+                Text("Hello, testandoooo!")
             }
             .navigationTitle("Navigation")
         }
